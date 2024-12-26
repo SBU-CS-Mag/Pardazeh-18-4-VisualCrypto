@@ -14,7 +14,7 @@ One key feature of visual cryptography is that the original image can be perfect
 
 #### Applications of Visual Cryptography
 
-Visual cryptography has a wide range of applications, including secure image sharing, watermarking, and authentication systems. It’s particularly useful in scenarios where simplicity and security are paramount. For example, it can be used to distribute confidential information in a way that requires physical cooperation between parties to reconstruct the secret.
+Visual cryptography has a wide range of applications, including secure image sharing, watermarking, and authentication systems. It’s particularly useful in scenarios where simplicity and security are paramount. For example, it can be used to distribute confidential information in a way that requires physical cooperation between parties to reconstruct the secret. 
 
 #### A Challenge for You!
 
