@@ -18,7 +18,7 @@ Visual cryptography has a wide range of applications, including secure image sha
 
 #### A Challenge for You!
 
-To bring this concept to life, I’ve prepared a Visual Cryptography challenge inspired by Naor and Shamir’s 1994 paper. The challenge involves decrypting a message that has been encoded using their approach. To solve it, you’ll need to work with Python and two powerful libraries: **NumPy** and **Pillow (PIL)**. 
+To bring this concept to life, I’ve prepared a Visual Cryptography challenge inspired by Naor and Shamir’s 1994 paper. The challenge involves decrypting a message that has been encoded using their approach (*Special Case of a 2 out of 2 Visual Secret Sharing Problem*). To solve it, you’ll need to work with Python and two powerful libraries: **NumPy** and **Pillow (PIL)**. 
 
 Your task is to programmatically combine the shares provided and reconstruct the hidden message. Use NumPy to handle the pixel-level manipulations and PIL for image processing. Pay attention to how patterns in the shares align to reveal the secret. This is a fantastic way to deepen your understanding of visual cryptography while sharpening your programming skills.
 
